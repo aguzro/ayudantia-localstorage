@@ -1,0 +1,16 @@
+#cabecera{
+    background-color: #880e4f;
+    color: whitesmoke;
+    padding: 3% 0; 
+}
+
+textarea{
+    resize: none;
+}
+p{
+    padding-right: 2%;
+    
+}
+#contenedorTareas{
+    padding: 2% 0;
+}
